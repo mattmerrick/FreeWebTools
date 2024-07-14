@@ -19,6 +19,8 @@ If you are new to coding, this was built using [shipfast](https://shipfa.st/?via
 Please star the repo and feel free to add your own free tools as well.
 <br /><br /> 
 
+If you want more make sure to check out [Niche Tools](https://nichetools.net) with over 7,000 web tools to browse. You are sure to find one that can be your next big hit. 
+
 ## Tech Stack
 
 This website is built using these technologies:
