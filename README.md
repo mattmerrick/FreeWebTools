@@ -8,8 +8,6 @@
 </div>
 <br />
 
-<img width="1359" alt="image" src="https://utfs.io/f/0ee54c30-36ee-4fc4-8057-7f4171e5137b-8xp6qq.png">
-
 ## Introduction
 
 All of this code is written in the next.js framework using the app router. 
