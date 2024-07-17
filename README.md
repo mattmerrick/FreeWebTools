@@ -12,14 +12,14 @@
 
 ## Introduction
 
-All of this code is written in the next.js framework. 
+All of this code is written in the next.js framework using the app router. 
 
 If you are new to coding, this was built using [shipfast](https://shipfa.st/?via=nichetools)
 
 Please star the repo and feel free to add your own free tools as well.
 <br /><br /> 
 
-If you want more make sure to check out [Niche Tools](https://nichetools.net) with over 7,000 web tools to browse. You are sure to find one that can be your next big hit. 
+If you are looking for sites that rank well with LOW DR like some of these tools. Check out ->  [LowDR Sites](https://lowdrsites.com) a collection of sites with DR < 25 and a monthly search volume of 1k+.  
 
 ## Tech Stack
 
