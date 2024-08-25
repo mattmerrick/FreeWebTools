@@ -17,7 +17,7 @@ If you are new to coding, this was built using [shipfast](https://shipfa.st/?via
 Please star the repo and feel free to add your own free tools as well.
 <br /><br /> 
 
-If you are looking for sites that rank well with LOW DR like some of these tools. Check out ->  [LowDR Sites](https://lowdrsites.com) a collection of sites with DR < 25 and a monthly search volume of 1k+.  
+If you are looking for niche ideas  Check out ->  [Niche Ideas](https:/nicheideas.beehiiv.com) 
 
 ## Tech Stack
 
