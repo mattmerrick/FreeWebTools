@@ -17,7 +17,7 @@ If you are new to coding, this was built using [shipfast](https://shipfa.st/?via
 Please star the repo and feel free to add your own free tools as well.
 <br /><br /> 
 
-If you are looking for niche ideas  Check out ->  [Niche Ideas](https:/nicheideas.beehiiv.com) 
+If you are looking for niche ideas  Check out ->  [Niche Ideas](https:/nicheideas.net) 
 
 ## Tech Stack
 
